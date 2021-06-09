@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparable Implementasyonu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackUygulamasi", "StackUygulamasi\StackUygulamasi.csproj", "{B403BDE3-F0C5-4D7D-B957-072B8E870162}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUygulamasi", "QueueUygulamasi\QueueUygulamasi.csproj", "{0D7361F3-B8D7-4434-890B-D3BBF2E0692B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B403BDE3-F0C5-4D7D-B957-072B8E870162}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B403BDE3-F0C5-4D7D-B957-072B8E870162}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B403BDE3-F0C5-4D7D-B957-072B8E870162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7361F3-B8D7-4434-890B-D3BBF2E0692B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7361F3-B8D7-4434-890B-D3BBF2E0692B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7361F3-B8D7-4434-890B-D3BBF2E0692B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7361F3-B8D7-4434-890B-D3BBF2E0692B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
