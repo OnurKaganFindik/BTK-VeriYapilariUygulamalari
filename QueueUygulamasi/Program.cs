@@ -30,6 +30,25 @@ namespace QueueUygulamasi
                 }
 
             }
+            Console.WriteLine();
+            Console.WriteLine("Kuyruktan elemanların kaldırılması işlemi için ESC tuşuna basınız.");
+            secim = Console.ReadKey();
+
+            if (secim.Key==ConsoleKey.Escape)
+            {
+
+            Console.WriteLine();
+
+            while (kuyruk.Count>0)
+            {
+                Console.WriteLine();
+                Console.WriteLine($"{kuyruk.Peek(),5} kuyruktan çıkartılıyor.");
+                Console.WriteLine($"{kuyruk.Dequeue(),5} kuyruktan çıkartıldı.");
+                Console.WriteLine($"Kuyruktaki eleman sayısı : {kuyruk.Count}");
+            }
+            Console.WriteLine("\nKuyruktan çıkarma işlemi tamamlandı.");
+            }
+            Console.WriteLine("Program bitti.");
             Console.ReadKey();
         }
     }
