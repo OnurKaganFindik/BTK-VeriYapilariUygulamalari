@@ -17,9 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListUygulamasi", "Lin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryUygulama", "DictionaryUygulama\DictionaryUygulama.csproj", "{28038B39-210E-46B5-B7F3-925052D7FD5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryUygulama2", "DictionaryUygulama2\DictionaryUygulama2.csproj", "{8911E89F-DE18-4B78-9E79-63D148CE52B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryUygulama2", "DictionaryUygulama2\DictionaryUygulama2.csproj", "{8911E89F-DE18-4B78-9E79-63D148CE52B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedDictionaryUygulamasi", "SortedDictionaryUygulamasi\SortedDictionaryUygulamasi.csproj", "{5C056770-F36F-4D9E-9DC8-6C3129F59C0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedDictionaryUygulamasi", "SortedDictionaryUygulamasi\SortedDictionaryUygulamasi.csproj", "{5C056770-F36F-4D9E-9DC8-6C3129F59C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSetUygulamasi", "SortedSetUygulamasi\SortedSetUygulamasi.csproj", "{EE2B0485-751E-41C9-A3E6-4A3B07B40F7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSetUygulamasi2", "SortedSetUygulamasi2\SortedSetUygulamasi2.csproj", "{3DC8EB03-B118-4B92-B955-DDBE205E8D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSetKumeUygulamasi", "SortedSetKumeUygulamasi\SortedSetKumeUygulamasi.csproj", "{9E9C9B43-C1FD-44B9-A488-F7E61C285822}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{5C056770-F36F-4D9E-9DC8-6C3129F59C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C056770-F36F-4D9E-9DC8-6C3129F59C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C056770-F36F-4D9E-9DC8-6C3129F59C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2B0485-751E-41C9-A3E6-4A3B07B40F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2B0485-751E-41C9-A3E6-4A3B07B40F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2B0485-751E-41C9-A3E6-4A3B07B40F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2B0485-751E-41C9-A3E6-4A3B07B40F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC8EB03-B118-4B92-B955-DDBE205E8D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC8EB03-B118-4B92-B955-DDBE205E8D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC8EB03-B118-4B92-B955-DDBE205E8D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC8EB03-B118-4B92-B955-DDBE205E8D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9C9B43-C1FD-44B9-A488-F7E61C285822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9C9B43-C1FD-44B9-A488-F7E61C285822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9C9B43-C1FD-44B9-A488-F7E61C285822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9C9B43-C1FD-44B9-A488-F7E61C285822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
